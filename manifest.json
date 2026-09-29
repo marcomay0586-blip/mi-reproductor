@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Reproductor PWA",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "chimerical-twilight...",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Reproductor de música local",
+  "id": "reproductor-pwa"
+}
